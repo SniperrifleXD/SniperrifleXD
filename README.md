@@ -2,7 +2,7 @@
 
 ## I'm a Bot Developer!
 
-- Creator of Strategic Response Unit Bot
+- Coded Strategic Response Unit Bot
 
 
 ### Languages and Tools:
