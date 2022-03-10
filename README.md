@@ -1,9 +1,10 @@
 # Hi there, I'm [SniperrifleXD][discord] 👋 
 
 ## I'm a Bot Developer!
-
-- Coded Strategic Response Unit Bot
-- Coded Mayflower Bot
+- Strategic Response Unit Bot
+- Mayflower Bot
+- KnowOP Bot
+- The Black Mafia Bot
 
 
 ### Languages and Tools:
