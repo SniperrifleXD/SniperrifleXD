@@ -5,6 +5,9 @@
 - Mayflower Bot
 - KnowOP Bot
 - The Black Mafia Bot
+- Concept Productions Bot
+- Stonks Bot
+- Staff Moderation Bot
 
 
 ### Languages and Tools:
