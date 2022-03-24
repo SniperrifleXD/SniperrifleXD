@@ -8,6 +8,7 @@
 - Concept Productions Bot
 - Stonks Bot
 - Staff Moderation Bot
+- Vacnouver RP Bot
 
 
 ### Languages and Tools:
