@@ -6,6 +6,7 @@
 - KnowOP Bot
 - The Black Mafia Bot
 - Concept Productions Bot
+- Concept Music Bot
 - Stonks Bot
 - Staff Moderation Bot
 - Vacnouver RP Bot
