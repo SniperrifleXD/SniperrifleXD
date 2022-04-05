@@ -35,4 +35,4 @@
 
 [discord]: https://discordapp.com/users/648267393604255781
 [invite]: https://discord.com/api/oauth2/authorize?client_id=958408122664357968&permissions=2150632448&scope=bot%20applications.commands
-[stonksinvite]: https://discord.com/api/oauth2/authorize?client_id=956235326769209444&permissions=268503056&scope=bot
+[stonksinvite]: https://discord.com/api/oauth2/authorize?client_id=956235326769209444&permissions=2415987728&scope=bot%20applications.commands
