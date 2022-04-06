@@ -1,6 +1,6 @@
 # Hi there, I'm [SniperrifleXD][discord] 👋 
 
-## I'm a Bot Developer!
+## I'm a Discord Bot Developer!
 - Strategic Response Unit Bot
 - Mayflower Bot
 - KnowOP Bot
