@@ -1,6 +1,8 @@
 # Hi there, I'm [SniperrifleXD][discord] 👋 
 
 ## I'm a Discord Bot Developer!
+I can make bots from v12 to v13! Currently learning/working on html and discord.js oauth2.
+
 - Strategic Response Unit Bot
 - Mayflower Bot
 - KnowOP Bot
