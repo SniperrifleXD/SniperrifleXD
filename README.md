@@ -12,6 +12,9 @@ I can make bots from v12 to v13! Currently learning/working on html and discord.
 - [Stonks Bot][stonksinvite]
 - Staff Moderation Bot
 - Vacnouver RP Bot
+- Mano County Bot
+- Unlocked Studios Bot
+- Concept Studios Bot
 - [XBEATS BOT][invite]
 
 
