@@ -1,7 +1,7 @@
 # Hi there, I'm [SniperrifleXD][discord] 👋 
 
 ## I'm a Discord Bot Developer!
-I can make bots from v12 to v13! Currently learning/working on html and discord.js oauth2.
+I can make bots from v12 to v13!
 
 - Strategic Response Unit Bot
 - Mayflower Bot
@@ -23,7 +23,7 @@ I can make bots from v12 to v13! Currently learning/working on html and discord.
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-
+<img align="left" alt="html" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/html-original.svg" style="padding-right:10px;" />
 <br />
 <br />
 
